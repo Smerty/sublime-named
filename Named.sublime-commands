@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Bind (named) Zone File Validity Check",
+        "command": "zonecheck"
+    }
+]
